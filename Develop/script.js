@@ -80,24 +80,6 @@ function generatePassword(){
 
   console.log(generatedRandomPassword)
 
-  
-    
-  //   if (lowerCase === true){
-  //     allCharacters = lettersLower;
-  //   }
-  //   else if (upperCase === true){
-  //     allCharacters = lettersLower + lettersUpper;
-  //   }
-  //   if (numeric === false) {
-  //     allCharacters = lettersLower + lettersUpper + symbols;
-  //   }
-  //   if (specCharacters === false) {
-  //     allCharacters = lettersLower + lettersUpper + numbers;
-  //   }
-  // }
-  // console.log(generatedRandomPassword)
-  
-  
   //Password is displayed on page
   return generatedRandomPassword;
 
@@ -112,7 +94,7 @@ function writePassword() {
 
 }
 
-writePassword()
+// writePassword()
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
