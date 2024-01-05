@@ -94,6 +94,7 @@ function writePassword() {
 
 }
 
+// this function, that I commented out, was what was making the code "fire" upon loading my page.  
 // writePassword()
 
 // Add event listener to generate button

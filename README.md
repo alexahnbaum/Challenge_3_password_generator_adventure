@@ -47,9 +47,9 @@ While coding this function in Javascript, a few problems that took the majority 
 <a id="item-three"></a>
 ### WHAT ARE THE SOLUTIONS? ###
 
-Through starting on pseudo-coding, I was able to break down what I needed to do to overcome my problems identified.  I wrote out pseudo-code in my Javascript starter code based on the acceptance criteria listed in the Challenge #3 README file.  This was about 5 lines of pseudo-code.  This helped me understand the broken down tasks I needed to complete in order to overcome the problem presented in the  Javascript starter code.  I addressed the following problems and came up with these solutions:
+Through starting with pseudo-coding, I was able to break down what I needed to do to overcome my problems identified.  I wrote out pseudo-code in my Javascript starter code based on the acceptance criteria listed in the Challenge #3 README file.  This was about 5 lines of pseudo-code.  This helped me understand the broken down tasks I needed to complete in order to overcome the problem presented in the  Javascript starter code.  I addressed the following problems and came up with these solutions:
 
-- Solution to understanding what windows to use: prompt, confirm and alert windows: The week 3 mini-project README file included links to mdn web docs about different types of windows to use in Javascript.  After trial and error, I determined which windows to use for the different types of user questions I wanted to ask.  
+- Solution to understanding what windows to use: prompt, confirm and alert windows: The week 3 mini-project README file included links to MDN Web Docs about different types of windows to use in Javascript.  After trial and error, I determined which windows to use for the different types of user questions I wanted to ask.  
 
 - Solution to using if/else statements correctly:  I went back to the recorded class sessions and re-watched the class that included conditional statements.  I also looked at the instruction and student lessons in the week 3 modules (lessons 9 and 10) to review what was done in class.  After some trial and error, I felt I had a better understanding of how to use conditional statements.  However, because I needed to use math formulas, in my conditional statements, I looked at online articles regarding this.  This leads me into my next solution.
 
@@ -69,7 +69,7 @@ Some of my big takeaways in what I learned through this challenge were functions
 <a id="item-five"></a>
 ### USAGE ###
 
-The GitHub repository containing the HTML and CSS code that I edited can be found at the following [link](https://github.com/alexahnbaum/AlexAhnBaum-portfolio)
+The GitHub repository containing this challenge can be found at the following [link](https://github.com/alexahnbaum/AlexAhnBaum-portfolio)
 
 <a id="item-six"></a>
 ### CREDITS ###
