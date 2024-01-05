@@ -53,7 +53,7 @@ Through starting with pseudo-coding, I was able to break down what I needed to d
 
 - Solution to using if/else statements correctly:  I went back to the recorded class sessions and re-watched the class that included conditional statements.  I also looked at the instruction and student lessons in the week 3 modules (lessons 9 and 10) to review what was done in class.  After some trial and error, I felt I had a better understanding of how to use conditional statements.  However, because I needed to use math formulas, in my conditional statements, I looked at online articles regarding this.  This leads me into my next solution.
 
-- Solution to using math formulas to produce random values: In the README file of the week 3 mini-project, there was an included link to a mdn web doc about different ways to use math.  I found information on using math.random to randomize content in variables.  I also needed to read online articles about using math.random to get a better understanding of how to use this feature in Javascript.  After spending some time on this, I spent then set out to try using it in my Javascript starter code.  After some trial and error, I was able to use math.random in a math formula successfully.
+- Solution to using math formulas to produce random values: In the README file of the week 3 mini-project, there was an included link to a MDN Web Doc about different ways to use math.  I found information on using math.random to randomize content in variables.  I also needed to read online articles about using math.random to get a better understanding of how to use this feature in Javascript.  After spending some time on this, I then set out to try using it in my Javascript starter code.  After some trial and error, I was able to use math.random in a math formula successfully.
 
 - Solution of how to get and use return values: I knew that I needed to get and use the user information that was being recorded from all of the window prompts, but I did not know how to do this.  After some research, I found out how to use a return in Javascript correctly.  This was the last line of code I wrote in the generatePassword function.  Once I did this, I felt I had solved the main issue with the starter Javascript code.
 
@@ -64,12 +64,14 @@ Through starting with pseudo-coding, I was able to break down what I needed to d
 <a id="item-four"></a>
 ### WHAT WAS LEARNED? ###
 
-Some of my big takeaways in what I learned through this challenge were functions, conditional statements, using math formulas, scope and event listeners.  I learned that functions can include a large portion of code.  It took me several hours to write all the code necessary for this function to work correctly.  I spent a good amount of trial and error time writing conditional statements.  I would say that I needed to spend some time to really think about the conditional statements I wanted to write and this was my biggest thing learned.  It helped me to think about what I wanted to my if/else statements to be before I wrote them.  This was a arduous, but also fun, process that I look forward to continuing to do.  I learned a couple of useful math formulas that I know I will use again.  After my tutor session, I had a better grasp on scope and what is used within global scope vs. local scope within a function.  Finally, I spent a some time learning about event listeners over the course of this challenge.  I feel I had a good understanding of how they are used, where they are written, and how useful they can be within Javascript.
+Some of my big takeaways in what I learned through this challenge were functions, conditional statements, using math formulas, scope and event listeners.  I learned that functions can include a large portion of code.  It took me several hours to write all the code necessary for this function to work correctly.  I spent a good amount of trial and error time writing conditional statements.  I would say that I needed to spend some time to really think about the conditional statements I wanted to write - this was my biggest thing learned.  It helped me to think about what I wanted my if/else statements to be before I wrote them.  This was an arduous, but also fun, process that I look forward to continuing to do in the future.  I learned a couple of useful math formulas that I know I will use again.  After my tutor session, I had a better grasp on scope and what is used within global scope vs. local scope within a function.  Finally, I spent some time learning about event listeners over the course of this challenge.  I learned how they are used, where they are written, and how useful they can be within Javascript.
 
 <a id="item-five"></a>
 ### USAGE ###
 
-The GitHub repository containing this challenge can be found at the following [link](https://github.com/alexahnbaum/AlexAhnBaum-portfolio)
+The deployed page through GitHub can be found at the following [link](https://alexahnbaum.github.io/Challenge_3_password_generator_adventure/)
+
+
 
 <a id="item-six"></a>
 ### CREDITS ###
